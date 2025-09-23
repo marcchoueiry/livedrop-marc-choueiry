@@ -61,7 +61,7 @@ Use GPT-4o-mini or similar small LLM for inference.
 Next prototype step: implement frontend chat box, connect to AI service, and validate suggestions on 50 sample queries.
 
 
-## Typeahead / Search Suggestions
+## Typeahead Search Suggestions
 
 ## Problem statement
 
