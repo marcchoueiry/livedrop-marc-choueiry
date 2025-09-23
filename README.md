@@ -1,16 +1,5 @@
 # livedrop-marc-choueiry
 
-## week 2 assignment
-
-## AI touchpoints: 
-
-**See the full AI capability map here:** https://github.com/marcchoueiry/livedrop-marc-choueiry/tree/main/ai-first
-
-
-
-
-## week 1 assignment
-
 **Link of the diagrams:** https://excalidraw.com/#json=8rsohlJynGKC2f0R5jW2A,1H1fa5pzWHJ5v2AHixpZcw
 
 **Explanation:**
