@@ -1,6 +1,6 @@
 import requests
 
-ngrok_url = input("Enter your ngrok public URL (e.g., https://xxxxxx.ngrok.io): ")
+ngrok_url = input("ngrok_url")
 
 def ask_llm(question):
     try:
